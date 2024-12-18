@@ -8,3 +8,6 @@ https://www.coursera.org/specializations/machine-learning-introduction<br/>
 https://www.coursera.org/specializations/natural-language-processing?<br/>
 https://www.coursera.org/specializations/deep-learning<br/>
 https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+
+# time series
+https://medium.com/kx-systems/analyzing-stock-prices-with-vector-databases-cdb3e8420cb5
