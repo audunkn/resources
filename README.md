@@ -10,7 +10,8 @@ https://www.coursera.org/specializations/deep-learning<br/>
 https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
 
 # time series
-https://medium.com/kx-systems/analyzing-stock-prices-with-vector-databases-cdb3e8420cb5
+https://medium.com/kx-systems/analyzing-stock-prices-with-vector-databases-cdb3e8420cb5<br/>
+https://www.coursera.org/learn/practical-time-series-analysis
 
 # llamaindex
 https://github.com/run-llama/llamacloud-demo/blob/main/examples/document_workflows/contract_review/contract_review.ipynb
