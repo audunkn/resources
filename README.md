@@ -14,5 +14,5 @@ https://medium.com/kx-systems/analyzing-stock-prices-with-vector-databases-cdb3e
 https://www.oreilly.com/library/view/practical-time-series/9781492041641/<br/>
 https://www.coursera.org/learn/practical-time-series-analysis
 
-# llamaindex
-https://github.com/run-llama/llamacloud-demo/blob/main/examples/document_workflows/contract_review/contract_review.ipynb
+# llamacloud
+[https://github.com/run-llama/llamacloud-demo/blob/main/examples/document_workflows/contract_review/contract_review.ipynb](https://github.com/run-llama/llamacloud-demo/tree/main)
