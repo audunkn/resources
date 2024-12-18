@@ -18,4 +18,4 @@ https://www.coursera.org/learn/practical-time-series-analysis
 https://github.com/langchain-ai/langchain/tree/master/cookbook
 
 # llamacloud
-[https://github.com/run-llama/llamacloud-demo/blob/main/examples/document_workflows/contract_review/contract_review.ipynb](https://github.com/run-llama/llamacloud-demo/tree/main)
+https://github.com/run-llama/llamacloud-demo/tree/main/examples
