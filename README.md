@@ -1,13 +1,9 @@
-# llm engineering
+# llm
 https://github.com/SylphAI-Inc/LLM-engineer-handbook<br/>
+https://github.com/langchain-ai/langchain/tree/master/cookbook<br/>
+https://github.com/run-llama/llamacloud-demo/tree/main/examples<br/>
 https://github.com/decodingml/llm-twin-course<br/>
-https://github.com/iusztinpaul/hands-on-llms
-
-# langchain
-https://github.com/langchain-ai/langchain/tree/master/cookbook
-
-# llamacloud
-https://github.com/run-llama/llamacloud-demo/tree/main/examples
+https://github.com/iusztinpaul/hands-on-llms<br/>
 
 # machine learning
 https://www.coursera.org/specializations/machine-learning-introduction<br/>
@@ -20,5 +16,3 @@ https://medium.com/kx-systems/analyzing-stock-prices-with-vector-databases-cdb3e
 https://facebook.github.io/prophet/docs/quick_start.html#python-api<br/>
 https://www.oreilly.com/library/view/practical-time-series/9781492041641/<br/>
 https://www.coursera.org/learn/practical-time-series-analysis
-
-
