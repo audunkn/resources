@@ -17,3 +17,6 @@ https://medium.com/kx-systems/analyzing-stock-prices-with-vector-databases-cdb3e
 https://facebook.github.io/prophet/docs/quick_start.html#python-api<br/>
 https://www.oreilly.com/library/view/practical-time-series/9781492041641/<br/>
 https://www.coursera.org/learn/practical-time-series-analysis
+
+# rl
+https://www.manning.com/books/deep-learning-and-the-game-of-go
