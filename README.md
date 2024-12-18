@@ -11,3 +11,6 @@ https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
 
 # time series
 https://medium.com/kx-systems/analyzing-stock-prices-with-vector-databases-cdb3e8420cb5
+
+# llamaindex
+https://github.com/run-llama/llamacloud-demo/blob/main/examples/document_workflows/contract_review/contract_review.ipynb
